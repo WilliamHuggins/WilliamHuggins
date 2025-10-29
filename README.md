@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Will Huggins👋
 
-<!--
-**WilliamHuggins/WilliamHuggins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm passionate about making AI accessible and practical for everyone. Currently 
+working at Stanford Law School, where I am the Associate Director for Access and Collections Services.
 
-Here are some ideas to get you started:
+## 🎯 What I'm Working On
+- Teaching AI literacy to the Law School Community
+- Building custom GPTs for law and for office work.
+- Exploring coding using AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ AI Tools I Use
+- ChatGPT, Codex (Advanced prompting, Custom GPTs)
+- Claude (Research, document analysis)
+- Gemini (Research, code generation, image generation)
+- Harvey AI (Legal-specific applications)
+- Notebook LM
+- Perplexity
+- Eleven Labs
+- Google Stitch
+
+## 📚 AI Training Completed
+--Generative AI: Foundation Models and Platforms (Coursera)
+--Exploring Generative AI for Learning Design, Univ. of Michigan (Coursera)
+
+## 🌟 Featured Projects
+Coming soon! Currently documenting my AI work.
+
+## 📫 Let's Connect
+- LinkedIn: [[[My LinkedIn URL](https://www.linkedin.com/in/will-huggins/)]
+- Email: messagewillh@gmail.com
+- Website: aiwritersretreat.com
